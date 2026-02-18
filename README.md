@@ -4,21 +4,6 @@
 
 ---
 
-## 📦 Instalación rápida
-
-```bash
-# 1. Clona el repositorio
-git clone <tu-repo>
-cd Ejercicios-APIS
-
-# 2. Crea y activa un entorno virtual
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # Mac/Linux
-
-# 3. Instala dependencias
-pip install -r requirements.txt
-```
 
 **Dependencias principales:**
 
@@ -60,7 +45,7 @@ Ejercicios-APIS/
 
 Detecta automáticamente la ubicación del usuario por su IP y muestra el clima actual en tiempo real. Muestra temperatura, humedad, velocidad del viento, descripción del estado del cielo e ícono animado.
 
-![Preview clima](screenshots/1.png)
+![Preview clima](1.png)
 
 ### APIs utilizadas
 - [`ipapi.co`](https://ipapi.co) — Geolocalización por IP (sin key)

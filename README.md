@@ -55,15 +55,15 @@ Ejercicios-APIS/
 
 | Archivo | Descripción |
 |--------|-------------|
-| [`templates/chat.html`](templates/chat.html) | Interfaz de chat |
-| [`templates/clima.html`](templates/clima.html) | Interfaz del clima |
-| [`templates/divisas.html`](templates/divisas.html) | Interfaz de divisas |
-| [`templates/github.html`](templates/github.html) | Interfaz de GitHub |
-| [`templates/libros.html`](templates/libros.html) | Interfaz de libros |
-| [`templates/lugares.html`](templates/lugares.html) | Interfaz de lugares |
-| [`templates/peliculas.html`](templates/peliculas.html) | Interfaz de películas |
-| [`templates/productos.html`](templates/productos.html) | Interfaz de productos |
-| [`templates/reddit.html`](templates/reddit.html) | Interfaz de Reddit |
+| [`templates/chat.html`](Ejercicios-APIS/templates/chat.html) | Interfaz de chat |
+| [`templates/clima.html`](Ejercicios-APIS/templates/clima.html) | Interfaz del clima |
+| [`templates/divisas.html`](Ejercicios-APIS/templates/divisas.html) | Interfaz de divisas |
+| [`templates/github.html`](Ejercicios-APIS/templates/github.html) | Interfaz de GitHub |
+| [`templates/libros.html`](Ejercicios-APIS/templates/libros.html) | Interfaz de libros |
+| [`templates/lugares.html`](Ejercicios-APIS/templates/lugares.html) | Interfaz de lugares |
+| [`templates/peliculas.html`](Ejercicios-APIS/templates/peliculas.html) | Interfaz de películas |
+| [`templates/productos.html`](Ejercicios-APIS/templates/productos.html) | Interfaz de productos |
+| [`templates/reddit.html`](Ejercicios-APIS/templates/reddit.html) | Interfaz de Reddit |
 
 ---
 

@@ -37,15 +37,15 @@ Ejercicios-APIS/
 
 | Archivo | Descripción |
 |--------|-------------|
-| [`chat_app.py`](chat_app.py) | Aplicación de chat |
-| [`clima_app.py`](clima_app.py) | Consulta del clima |
-| [`divisas_app.py`](divisas_app.py) | Conversión de divisas |
-| [`github_app.py`](github_app.py) | Búsqueda en GitHub |
-| [`libros_app.py`](libros_app.py) | Búsqueda de libros |
-| [`lugares_app.py`](lugares_app.py) | Búsqueda de lugares |
-| [`peliculas_app.py`](peliculas_app.py) | Búsqueda de películas |
-| [`productos_api.py`](productos_api.py) | API de productos |
-| [`reddit_app.py`](reddit_app.py) | Consulta de Reddit |
+| [`chat_app.py`](Ejercicios-APIS/chat_app.py) | Aplicación de chat |
+| [`clima_app.py`](Ejercicios-APIS/clima_app.py) | Consulta del clima |
+| [`divisas_app.py`](Ejercicios-APIS/divisas_app.py) | Conversión de divisas |
+| [`github_app.py`](Ejercicios-APIS/github_app.py) | Búsqueda en GitHub |
+| [`libros_app.py`](Ejercicios-APIS/libros_app.py) | Búsqueda de libros |
+| [`lugares_app.py`](Ejercicios-APIS/lugares_app.py) | Búsqueda de lugares |
+| [`peliculas_app.py`](Ejercicios-APIS/peliculas_app.py) | Búsqueda de películas |
+| [`productos_api.py`](Ejercicios-APIS/productos_api.py) | API de productos |
+| [`reddit_app.py`](Ejercicios-APIS/reddit_app.py) | Consulta de Reddit |
 
 ---
 

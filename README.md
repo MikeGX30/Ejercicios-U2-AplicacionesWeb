@@ -6,13 +6,15 @@
 ![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
 
-> Esta guía contiene instrucciones paso a paso para completar todos los ejercicios prácticos de la Unidad 2 usando Flask y APIs gratuitas.
+> Miguel Lozano Arvizu 1224100689
 
 </div>
 
 ---
 
 ## 📋 Tabla de Contenidos
+
+0. [Ejercicio 2.2: Dashboard de GitHub](./Ejercicios-APIS) 
 
 1. [Configuración Inicial](./ejercicio_0_configuracion/app.py)
 2. [Ejercicio 1.1: Sistema de Clima por Ubicación](./ejercicio_1_1_clima/app.py)
